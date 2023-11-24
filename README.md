@@ -10,4 +10,6 @@ I'm going to leave you some links:
 - 🐦 [Twitter](https://twitter.com/AzraelSec)
 - 🖲️ [LinkedIn](https://www.linkedin.com/in/azraelsec/)
 
-![Alt Text](https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif)
+<p align="center">
+  <img alt="Hack the planet" src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif">
+</p>
